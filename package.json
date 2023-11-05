@@ -44,6 +44,6 @@
   },
   "repository": "https://github.com/creavi-dcms/socket-io-client.git",
   "publishConfig": {
-    "registry": "https://github.com/CREAVI-CMS/"
+    "registry": "https://npm.pkg.github.com"
   }
 }
