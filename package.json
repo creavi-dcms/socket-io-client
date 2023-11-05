@@ -1,5 +1,5 @@
 {
-  "name": "@creavi-cms/socket-io-client",
+  "name": "@creavi-dcms/socket-io-client",
   "version": "0.0.1",
   "description": "Socket IO client for CREAVI on nuxt 3",
   "license": "MIT",
