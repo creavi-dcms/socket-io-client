@@ -1,9 +1,10 @@
 {
   "name": "@creavi-dcms/socket-io-client",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Socket IO client for CREAVI on nuxt 3",
   "license": "MIT",
   "type": "module",
+  "private": "false",
   "exports": {
     ".": {
       "types": "./dist/types.d.ts",
